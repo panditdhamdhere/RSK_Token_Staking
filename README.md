@@ -62,6 +62,7 @@ All tests are in `test/StakingTest.t.sol` and cover:
 - Emergency pause
 - Minimum stake requirements
 - Reward duration settings
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/75ca6515-fe70-4274-aec8-18c129329994" />
 
 ---
 
